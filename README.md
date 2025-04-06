@@ -70,9 +70,16 @@ The following models were trained and evaluated:
 - Random Forest Classifier
 - Decision Tree
 
+---
+
 ### 📊 Evaluation Metrics:
 
 - Accuracy
 - Confusion Matrix
 - Precision, Recall, F1-score
 - ROC Curve & AUC Score
+
+---
+
+## 🔍 Summary
+This project helped me understand the basics of ML models, but I’m still working on deepening my knowledge and exploring more advanced techniques.
